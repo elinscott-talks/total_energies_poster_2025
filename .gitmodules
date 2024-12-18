@@ -1,0 +1,3 @@
+[submodule "peace-of-posters"]
+	path = peace-of-posters
+	url = git@github.com:elinscott/peace-of-posters.git
